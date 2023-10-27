@@ -27,3 +27,5 @@ Qrolic Technologies specializes in WordPress development, offering various servi
 
 #### [Plugin Development](https://qrolic.com/services/plugin-development/)
 – Need a custom plugin? We can create and publish any type of plugin on the WordPress repository, tailored to your specific requirements.
+
+For more details, please visit [our website](https://qrolic.com/).
